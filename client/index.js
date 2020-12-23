@@ -1,7 +1,7 @@
 import React from 'react';
-import reactDom from 'react-dom';
+import reactDOM from 'react-dom';
 
-reactDom.render(
+reactDOM.render(
   <div>This is ReactDom render</div>,
   document.getElementById('app')
 );
